@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "MFt1axJtnz6JE9Zcipiw9VxodgWzr95sIl2YxnNcDzM=",
+  "Source": "HCI.AiAssistant.API",
+  "BasePath": "_content/HCI.AiAssistant.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
