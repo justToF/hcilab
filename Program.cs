@@ -46,6 +46,7 @@ builder.Services.AddSingleton<IAppConfigurationsService>(
 );
 
 builder.Services.AddSingleton<IParametricFunctions, ParametricFunctions>();
+builder.Services.AddSingleton<IAIAssistantService, AIAssistantService>();
 
 
 // Servicii standard (deja existente)
