@@ -46,3 +46,8 @@ C:\Users\tofan\Desktop\FACULTATE\IOC\hci_azure_laboratories\ai-assistant-api\src
 C:\Users\tofan\Desktop\FACULTATE\IOC\hci_azure_laboratories\ai-assistant-api\src\HCI.AiAssistant.API\obj\Debug\net8.0\HCI.AiAssistant.API.pdb
 C:\Users\tofan\Desktop\FACULTATE\IOC\hci_azure_laboratories\ai-assistant-api\src\HCI.AiAssistant.API\obj\Debug\net8.0\HCI.AiAssistant.API.genruntimeconfig.cache
 C:\Users\tofan\Desktop\FACULTATE\IOC\hci_azure_laboratories\ai-assistant-api\src\HCI.AiAssistant.API\obj\Debug\net8.0\ref\HCI.AiAssistant.API.dll
+C:\Users\tofan\Desktop\FACULTATE\IOC\hci_azure_laboratories\ai-assistant-api\src\HCI.AiAssistant.API\bin\Debug\net8.0\Microsoft.Azure.Amqp.dll
+C:\Users\tofan\Desktop\FACULTATE\IOC\hci_azure_laboratories\ai-assistant-api\src\HCI.AiAssistant.API\bin\Debug\net8.0\Microsoft.Azure.Devices.dll
+C:\Users\tofan\Desktop\FACULTATE\IOC\hci_azure_laboratories\ai-assistant-api\src\HCI.AiAssistant.API\bin\Debug\net8.0\Microsoft.Azure.Devices.Shared.dll
+C:\Users\tofan\Desktop\FACULTATE\IOC\hci_azure_laboratories\ai-assistant-api\src\HCI.AiAssistant.API\bin\Debug\net8.0\Microsoft.Rest.ClientRuntime.dll
+C:\Users\tofan\Desktop\FACULTATE\IOC\hci_azure_laboratories\ai-assistant-api\src\HCI.AiAssistant.API\bin\Debug\net8.0\Newtonsoft.Json.dll
